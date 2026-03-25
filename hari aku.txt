@@ -1,1 +1,14 @@
+05.00 - subuhan,olahraga,cpns,mandi,otw kantor
+08.00-11.00
+12.00 - valorant
+14.00 - 16.00
+17.00 - coding
+22.00 - valo
+00.00 - tdr
 
+05.00 - subuhan,olahraga,cpns,mandi
+08.00 - edit
+12.00 - duhur,tdr
+17.00 - olahraga,coding
+22.00 - valo
+00.00 - tdr
