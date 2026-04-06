@@ -2,7 +2,8 @@
 08.00-11.00
 12.00 - cpns
 14.00 - 16.00
-17.00 - olahraga,edit, coding
+17.00 - olahraga,edit,cpns
+19.00 - coding
 22.00 - valo
 00.00 - tdr
 
