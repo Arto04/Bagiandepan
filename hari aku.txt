@@ -1,15 +1,13 @@
 05.00 - subuhan,cpns,mandi,otw kantor
-07.00-12.00
+07.00 - kantor
 12.00 - cpns
-14.00 - 16.00
-17.00 - olahraga,edit,cpns
-19.00 - coding/grab
-22.00 - valo
+14.00 - kantor
+17.00 - olahraga,koding,cpns
+19.00 - edit/grab,valo
 00.00 - tdr
 
-05.00 - subuhan,olahraga,cpns
-08.00 - edit,valo
-13.00 - coding
-16.00 - olahraga, coding/grab
+05.00 - subuhan,olahraga
+08.00 - koding
+16.00 - olahraga,grab
 22.00 - valo
 00.00 - tdr
