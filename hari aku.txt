@@ -2,8 +2,8 @@
 07.00 - kantor
 12.00 - cpns
 14.00 - kantor
-17.00 - olahraga,koding,cpns
-19.00 - edit/grab,valo
+17.00 - olahraga,koding
+20.00 - edit/grab,valo
 00.00 - tdr
 
 05.00 - subuhan,olahraga
