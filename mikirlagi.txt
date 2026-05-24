@@ -1,16 +1,19 @@
-SELALU CEK TERLEBIH DAHULU AGRA HASIL SESUAI
+ganti latar tempat namun tetap diacara yang sama
+or
+di latar tempat yang sama hanya ganti kerumunan orang yang ada dibelakang 
 
-ganti outfit:
-buat fotoku mengunakan outfit seperti ini tanpa merubah wajah dan bentuk badannya ukuran payudara dan pinggul kebawah tidak boleh berubah, ukuran besar kepala harus proporsi dengan ukuran badan, ingat kamu hanya ganti outfitnya saja dan hasil rasio foto harus 4:5 seperti instgaram. sekarang tugas kamu buatkan promptny untuk gemini secara rinci dan jelas agar aku bisa langsung kopas buat menjadi bentuk paragraf
+ubah pose    foto tetap sopan.
 
-ganti outfit dan rambut:
-buat fotoku mengunakan outfit seperti ini tanpa merubah wajah dan bentuk badannya ukuran payudara dan pinggul kebawah tidak boleh berubah, ukuran besar kepala harus proporsi dengan ukuran badan,gaya rambutku mengikuti foto diatas (jadi kamu harus bisa mendeskripsikan dengan baik dan benar)ingat kamu hanya ganti outfitnya saja dan hasil rasio foto harus 4:5 seperti instgaram. sekarang tugas kamu buatkan promptny untuk gemini secara rinci dan jelas agar aku bisa langsung kopas buat menjadi bentuk paragraf
+angel kamera -meduim shot- dan rasio kamera tetap w=9 h=16
 
-ganti pose:
-ubah pose fotoku seperti gambar ini, tanpa merubah wajah dan bentuk badannya, ukuran payudara dan pinggul kebawah tidak boleh berubah, ukuran besar kepala harus proporsi dengan ukuran badan, hanya ganti posenya raut/ekspresi wajah(tetapi wajahku tidak boleh ganti hanya ekspresinya saja), untuk latar tempat mengikuti foto asli tetapi bisa kamu sesuaikan dengan kebutuhan pose, untuk angel kamera mengikuti gambar diatasa sehingga hasil pose fotoku bisa mirip dengan gambar ini, jadi kamu harus membuat prompt ini secara jelas dan terperinci dan hasil rasio foto harus 4:5 seperti instgaram. sekarang tugas kamu buatkan promptny untuk gemini secara rinci dan jelas agar aku bisa langsung kopas buat menjadi bentuk paragraf
 
-ganti latar:
-buat fotoku barada ditempat ini tanpa merubah bagian dari wajah dan bentuk badanku ukuran payudara dan pinggul kebawah, sesuaikan cahayabuat latar tempatnya dengan sangat jelas dan hasil rasio foto harus 4:5 seperti instgaram. sekarang tugas kamu buatkan promptny untuk gemini secara rinci dan jelas agar aku bisa langsung kopas buat menjadi bentuk paragraf
 
-ganti pose dan latar:
-ubah pose fotoku seperti gambar ini, tanpa merubah wajah dan bentuk badannya, ukuran payudara dan pinggul kebawah tidak boleh berubah, pakaianku juga tidak usah dirubah. ganti pose, raut/ekspresi wajah(tetapi wajahku tidak boleh ganti hanya ekspresinya saja) ukuran besar kepala harus proporsi dengan ukuran badan, latar tempat di fotoku juga di ubah sesuai dengan foto di atas agar hasilnya semakin mirip, untuk angel kamera mengikuti gambar diatasa sehingga hasil pose fotoku bisa mirip dengan gambar ini, jadi kamu harus membuat prompt ini secara jelas dan terperinci dan hasil rasio foto harus 4:5 seperti instgaram. sekarang tugas kamu buatkan promptny untuk gemini secara rinci dan jelas agar aku bisa langsung kopas buat menjadi bentuk paragraf
+Ubah karakter anime ini menjadi manusia fotorealistik yang menyerupai cosplayer aktris Tiongkok cantik. Pertahankan gaya rambut, pakaian, dan skema warna asli, tetapi sesuaikan wajah menjadi penampilan Asia Timur yang realistis dengan fitur wajah yang elegan dan halus. Wajah harus sangat menarik seperti selebriti Tiongkok terkenal, dengan kulit alami yang halus, riasan lembut, dan mata realistis yang ekspresif. Proporsi kepala dan tubuh harus terlihat alami dan realistis seperti manusia normal.
+
+Atur latar belakang di acara atau konvensi cosplay.
+
+buat rasio foto menjadi w=9 h=16
+
+Tambahkan detail kostum cosplay otentik dengan tekstur kain berkualitas tinggi. Gunakan pencahayaan sinematik yang lembut, sorotan lembut pada wajah, dan latar belakang yang sedikit buram (bokeh) seperti pemotretan profesional. Tampilan keseluruhan harus terasa seperti potret cosplay kelas atas dari seorang aktris Tiongkok yang menakjubkan.
+
+Ultra realistis, 4K, sangat detail, fotografi DSLR, fokus tajam, tekstur kulit alami, nada sinematik.
