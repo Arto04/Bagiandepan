@@ -1,13 +1,17 @@
-05.00 - subuhan,cpns,mandi,otw kantor
+edit sudah termasuk ig AI
+
+05.00 - subuhan,cpns(1soal),mandi,otw kantor
 07.00 - kantor
-12.00 - cpns
+12.00 - bikin narasi
 14.00 - kantor
 17.00 - olahraga,koding
 20.00 - edit/grab,valo
-00.00 - tdr
+00.00 - rekam suara,tdr
 
-05.00 - subuhan,olahraga
-08.00 - koding
-16.00 - olahraga,grab
+05.00 - subuhan,olahraga,cpns
+08.00 - grab
+12.00 - koding
+17.00 - edit
 22.00 - valo
-00.00 - tdr
+00.00 - rekam suara, tdr
+
