@@ -1,7 +1,7 @@
 Buat perempuan1mengenakan baju yang dipakai perempuan 2, tanpa mengubah wajah dan ukuran dada (ubah posenya sedikit)
 
 
-Deskripsikan pose dan angel dari foto perempuan ini dan buatkan sebuah prompt berdasarkan deskripsi tersebut dalam bahasa Indonesia
+Deskripsikan pose, raut muka dan angel dari foto perempuan ini dan buatkan sebuah prompt berdasarkan deskripsi tersebut dalam bahasa Indonesia
 
 dan ubah latar tempat perempuan 1 berada di gambar 3 sesuai pencahayaan
 
