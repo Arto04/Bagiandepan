@@ -12,6 +12,7 @@
     - program angkot Sandika galih pake python
     - Python Exercises
     - flapybird
+    - membuat game catur
     - -->
 
     <!--
