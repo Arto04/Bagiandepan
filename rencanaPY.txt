@@ -1,6 +1,5 @@
   <!-- projek yang mau dibikin(bulan 8 ini sudah pada selesai)(nanti bulan 7 bikin project dari youtube https://youtube.com/playlist?list=PLNCevxogE3fgy0pAzVccadWKaQp9iHspz&si=Pln5hB6RhcxZQCRI)
     - buat program angkot sandikagalih menggunakan bahasa python
-    - pelajaritentang keamanan web/web scrambling/automation 
     - kekegenkai ninja saga
     - metode untuk skripsi (kriptografi)
     - poin leaf boboiboy tcg
@@ -8,11 +7,12 @@
     - halaman untuk rule dunia sihir seperti D&D(ini gampang sih)
     - poling pemilihan ketua yang bisa disambungkan dengan excel/google spreadsheets
     - https://www.youtube.com/watch?v=V5-rQ1MCNSM&t=132s (kerjakan studi kasusu ini)
-    - buat game connect 4 
-    - program angkot Sandika galih pake python
     - Python Exercises
+    - cari pythone project di youtube
     - flapybird
-    - membuat game catur
+    - membuat game catur(normal dan catur amerika)
+    - buat game connect 4 dan tictactoe
+    - pelajari tentang keamanan web/web scrambling/automation 
     - -->
 
     <!--
